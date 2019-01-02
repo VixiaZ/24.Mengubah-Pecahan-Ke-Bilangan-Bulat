@@ -1,0 +1,1 @@
+# 24.Mengubah-Pecahan-Ke-Bilangan-Bulat
